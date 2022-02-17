@@ -1,6 +1,7 @@
 ******petshop*******
 
 ----------Introduction----------
+
 Nowadays, people are busy in their daily life and having a lot of stress from their working area. Most of them would like to have a pet to accompany them in their daily life and also can release the stress that they received. For example, having a dog is a good choice for most people who want to have a pet. Dog not only a very good companions and also having deep emotional tie between people. Dogs will protect the people with literally lay down their lives.
 Having a dog as a pet help the owner stay connected with the social life. The owner needs to bring their pet go out for exercise, take the pet to visit the pet groomer and also having the veterinary checkups for their pet. All of these need the owner to communicate with others and involved themselves in the social activities. [1] Besides that, people can get more friends with those who having the same habit which is taking their pet go out for some exercise and activities.
 I created a website for pet food ,where pet owners can buy food for their pets online.Our Web Application will allow existing user to login or create a new account for non-existing user.Later he can order the food online and avoid waiting in queue.
